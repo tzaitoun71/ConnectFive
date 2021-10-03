@@ -1,0 +1,6 @@
+C:\Users\tariq\OneDrive\Documents\T.Z\Assignment3Fixed\ConnectFive\obj\Debug\ConnectFive.csprojAssemblyReference.cache
+C:\Users\tariq\OneDrive\Documents\T.Z\Assignment3Fixed\ConnectFive\bin\Debug\ConnectFive.exe.config
+C:\Users\tariq\OneDrive\Documents\T.Z\Assignment3Fixed\ConnectFive\bin\Debug\ConnectFive.exe
+C:\Users\tariq\OneDrive\Documents\T.Z\Assignment3Fixed\ConnectFive\bin\Debug\ConnectFive.pdb
+C:\Users\tariq\OneDrive\Documents\T.Z\Assignment3Fixed\ConnectFive\obj\Debug\ConnectFive.exe
+C:\Users\tariq\OneDrive\Documents\T.Z\Assignment3Fixed\ConnectFive\obj\Debug\ConnectFive.pdb
